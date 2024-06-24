@@ -6,7 +6,15 @@ table,th, td {
         margin-bottom:10px;
         text-align: center;
       }
-      
+      .table-2{
+        width: 100%;
+      }
+      ul{
+        margin:0;
+        padding:0;
+        display: inline-block;
+        text-align: left;
+      }
       }
       .black-cell{
         background-color: black;
